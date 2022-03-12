@@ -1,0 +1,18 @@
+**/tmp
+
+**Data/2019 yellow taxi data
+yellow_trip_data_2019-01
+yellow_trip_data_2019-02
+yellow_trip_data_2019-03
+yellow_trip_data_2019-04
+yellow_trip_data_2019-05
+yellow_trip_data_2019-06
+yellow_trip_data_2019-07
+yellow_trip_data_2019-08
+yellow_trip_data_2019-09
+yellow_trip_data_2019-11
+yellow_trip_data_2019-12
+
+**Data/2019 permitted event
+
+.ipython_checkpoints
