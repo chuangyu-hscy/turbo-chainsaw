@@ -4,6 +4,10 @@
 - Due Date: Friday 16th of August 11:59:00 am (AEST).
 - Report Link: [Overleaf](https://www.overleaf.com/read/jtyhjwsdsvcn) (view only)
 
+The original git repo link is https://github.com/MAST30034-2021-S2/mast30034_2021_s2_project_1-chuangyu-hscy.
+
+You may need authorised by MAST30034 tut group to access it.
+
 # Dependencies
 - Language: _i.e Python 3.8.3 and/or R 4.05_
 - Packages / Libraries: check requirements.txt
